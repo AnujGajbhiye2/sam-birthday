@@ -13,7 +13,7 @@
                         <br>I could have never imagined,
                          the stupid girl I saw 6 years ago <br> playing a racing game on her nokia would grow out to be such a beautiful women. </h4>
                     <h4>You deserve all the happiness in the world!!</h4>
-                    <h4>Thank you for existing and making all the people around you happy and positive.</h4> <br>
+                    <h4>Thank you for <em> 'existing'</em> and making all the people around you happy and positive.</h4> <br>
                     <h4>Yours Truly,<br>
                         Anuj
                     </h4>

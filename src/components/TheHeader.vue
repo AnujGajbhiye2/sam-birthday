@@ -88,9 +88,6 @@
                     this.isSongPlaying = true
                 }
 
-                setTimeout(() => {
-                    this.stopConfetti()
-                }, 100000);
             }
 
 
